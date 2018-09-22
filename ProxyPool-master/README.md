@@ -1,5 +1,5 @@
 # ProxyPool
-代理词转自https://github.com/Python3WebSpider/ProxyPool
+代理池转自https://github.com/Python3WebSpider/ProxyPool
 
 ## 安装
 
