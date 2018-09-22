@@ -11,6 +11,6 @@
 ### 2.爬取数据
 修改Spider_Project目录下的setting文件（mysql数据库配置）
 
-根据需要修改spider.py中的keyword变量（代表搜索的公众号文章关键字）
+根据需要修改spider.py中的keyword变量（代表搜索的公众号文章关键字），更换Cookie
 
 配置完后运行spider.py
