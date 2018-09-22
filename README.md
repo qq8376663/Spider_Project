@@ -1,6 +1,8 @@
 # Spider_Project
 使用代理ip池爬取微信公众号文章
 
+代理池转自https://github.com/Python3WebSpider/ProxyPool
+
 ## 如何运行
 ### 1.获取代理ip
 根据需求配置ProxyPool-master\proxypool下的setting文件（url，redis，web接口）
